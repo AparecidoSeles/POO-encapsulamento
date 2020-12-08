@@ -1,0 +1,13 @@
+C:\Users\Ariel\OneDrive\Desktop\junior senai\POO-encapsulamento\bin\Debug\netcoreapp3.1\POO-encapsulamento.exe
+C:\Users\Ariel\OneDrive\Desktop\junior senai\POO-encapsulamento\bin\Debug\netcoreapp3.1\POO-encapsulamento.deps.json
+C:\Users\Ariel\OneDrive\Desktop\junior senai\POO-encapsulamento\bin\Debug\netcoreapp3.1\POO-encapsulamento.runtimeconfig.json
+C:\Users\Ariel\OneDrive\Desktop\junior senai\POO-encapsulamento\bin\Debug\netcoreapp3.1\POO-encapsulamento.runtimeconfig.dev.json
+C:\Users\Ariel\OneDrive\Desktop\junior senai\POO-encapsulamento\bin\Debug\netcoreapp3.1\POO-encapsulamento.dll
+C:\Users\Ariel\OneDrive\Desktop\junior senai\POO-encapsulamento\bin\Debug\netcoreapp3.1\POO-encapsulamento.pdb
+C:\Users\Ariel\OneDrive\Desktop\junior senai\POO-encapsulamento\obj\Debug\netcoreapp3.1\POO-encapsulamento.csprojAssemblyReference.cache
+C:\Users\Ariel\OneDrive\Desktop\junior senai\POO-encapsulamento\obj\Debug\netcoreapp3.1\POO-encapsulamento.AssemblyInfoInputs.cache
+C:\Users\Ariel\OneDrive\Desktop\junior senai\POO-encapsulamento\obj\Debug\netcoreapp3.1\POO-encapsulamento.AssemblyInfo.cs
+C:\Users\Ariel\OneDrive\Desktop\junior senai\POO-encapsulamento\obj\Debug\netcoreapp3.1\POO-encapsulamento.csproj.CoreCompileInputs.cache
+C:\Users\Ariel\OneDrive\Desktop\junior senai\POO-encapsulamento\obj\Debug\netcoreapp3.1\POO-encapsulamento.dll
+C:\Users\Ariel\OneDrive\Desktop\junior senai\POO-encapsulamento\obj\Debug\netcoreapp3.1\POO-encapsulamento.pdb
+C:\Users\Ariel\OneDrive\Desktop\junior senai\POO-encapsulamento\obj\Debug\netcoreapp3.1\POO-encapsulamento.genruntimeconfig.cache
